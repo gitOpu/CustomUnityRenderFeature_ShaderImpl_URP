@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: HighlightSettings
   m_EditorClassIdentifier: 
   highlightMaterial: {fileID: 2100000, guid: bab552da16db8457d98a7bbe1005c144, type: 2}
-  highlightColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  highlightColor: {r: 0, g: 5.3403134, b: 5.3403134, a: 1}
   targetedLayer: 6
